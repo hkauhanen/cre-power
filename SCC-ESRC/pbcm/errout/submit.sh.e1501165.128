@@ -1,0 +1,19 @@
+Warning messages:
+1: In value[[3L]](cond) :
+  Fitting failed for at least one parameter combination
+2: In value[[3L]](cond) :
+  Fitting failed for at least one parameter combination
+3: In value[[3L]](cond) :
+  Fitting failed for at least one parameter combination
+4: In value[[3L]](cond) :
+  Fitting failed for at least one parameter combination
+5: In value[[3L]](cond) :
+  Fitting failed for at least one parameter combination
+6: In value[[3L]](cond) :
+  Fitting failed for at least one parameter combination
+7: In value[[3L]](cond) :
+  Fitting failed for at least one parameter combination
+8: In value[[3L]](cond) :
+  Fitting failed for at least one parameter combination
+9: In if (k < 1) { :
+  the condition has length > 1 and only the first element will be used

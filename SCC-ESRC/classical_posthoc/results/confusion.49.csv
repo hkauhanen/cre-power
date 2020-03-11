@@ -1,0 +1,2 @@
+"ID","H","V","E","low_bound","high_bound","method","reps","alpha","runtime","runtime_scaled","P","TP","FN","N","TN","FP","J","own_boundaries"
+17,7,159,0.351199089580497,0.01,0.854,"M6",1000,0.001,52.781,0.0263905,1000,768,232,1000,998,2,0.766,TRUE

@@ -1,0 +1,6 @@
+fit.cre.classical       Fit Constant Rate Effect Models (Classical
+                        Methods)
+fit.cre.nls             Fit Constant Rate Effect Models (Nonlinear
+                        Least Squares)
+frequentize             From Response to Frequency Data
+prepare_data            Prepare Data

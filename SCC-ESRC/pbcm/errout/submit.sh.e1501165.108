@@ -1,0 +1,4 @@
+Warning message:
+In read.table(file = file, header = header, sep = sep, quote = quote,  :
+  incomplete final line found by readTableHeader on 'data/csv/egyptian.csv'
+There were 50 or more warnings (use warnings() to see the first 50)

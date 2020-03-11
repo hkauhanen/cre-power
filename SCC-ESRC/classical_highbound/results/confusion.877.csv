@@ -1,0 +1,2 @@
+"H","V","E","low_bound","high_bound","method","reps","alpha","runtime","runtime_scaled","P","TP","FN","N","TN","FP"
+100,300,0.255,0.05,0.45,"M6",1000,0.05,1874.292,0.937146,1000,893,107,1000,937,63

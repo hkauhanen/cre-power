@@ -1,0 +1,8 @@
+empirical.GoF           Empirical Goodnesses of Fit
+kNN.classification      k Nearest Neighbours Classification
+kNN.confusionmatrix     Confusion Matrices through k Nearest Neighbours
+                        Classification
+pbcm.di                 Data-informed Parametric Bootstrap
+                        Cross-fitting
+pbcm.du                 Data-uninformed Parametric Bootstrap
+                        Cross-fitting

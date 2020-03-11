@@ -1,0 +1,9 @@
+cat_csv                 Concatenate CSVs
+cat_csv.gz              Concatenate CSVs inside a .tar.gz
+closest_in_vector       Get the Element(s) of a Vector Closest to a
+                        Reference Value
+df2tex                  Data Frame to TeX Tabular
+factor2character        Factor to Character
+logistic                Logistic Function
+prettyround             Pretty Print Rounded Figures
+seed_seed               Seed Seed

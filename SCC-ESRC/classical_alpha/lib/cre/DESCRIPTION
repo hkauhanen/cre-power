@@ -1,0 +1,14 @@
+Package: cre
+Title: Constant Rate Effects
+Version: 0.0.0.9202
+Author: Henri Kauhanen <henri@henr.in>
+Maintainer: Henri Kauhanen <henr@henr.in>
+Description: Methods for detecting Constant Rate Effects in diachronic linguistic data under various models of the phenomenon.
+License: GPL-3 | file LICENSE
+Imports: pbcm
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
+NeedsCompilation: no
+Packaged: 2019-12-10 16:23:34 UTC; kauhanen
+Built: R 3.5.0; ; 2019-12-11 12:34:09 UTC; unix
