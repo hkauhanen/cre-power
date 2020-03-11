@@ -4,6 +4,9 @@ This folder contains synthetic (simulation) data generated during the ESRC-funde
 
 The simulation data were generated on a scientific computing cluster running the SGE queuing system, by code written in R. Here's a brief description of each folder. In each case, the simulation outputs reside in the `results` subfolder, the other folders containing inputs and various auxiliary files. Each `results` subfolder contains a number of CSV files, each the output of one parallel process. To produce the final datasets, these CSV files were concatenated using the utilities provided by [hipster](https://github.com/hkauhanen/hipster).
 
+Folders `classical_posthoc` and `pbcm` contain post hoc power analyses on data gathered by other people. Since I do not own the copyright to these data, they have been redacted here (they would otherwise reside in a subfolder named `data`).
+
+
 ## Folder `classical`
 
 Power analysis of classical CRE detection methods (methods M4--M7 in the manuscript). Description of CSV columns (please refer to the manuscript for further details):
